@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    width="96"
+    height="96"
+    viewBox="0 0 96 96"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Smartphone outline -->
+    <rect
+        x="28"
+        y="16"
+        width="40"
+        height="64"
+        rx="6"
+        stroke="#5C6BC0"
+        stroke-width="2.5"
+        fill="none"/>
+
+    <!-- Screen area -->
+    <rect
+        x="32"
+        y="22"
+        width="32"
+        height="52"
+        rx="2"
+        fill="#5C6BC0"
+        opacity="0.1"/>
+
+    <!-- Left signal waves -->
+    <path
+        d="M 20 35 Q 24 35 24 39"
+        stroke="#5C6BC0"
+        stroke-width="2"
+        stroke-linecap="round"
+        fill="none"
+        opacity="0.6"/>
+
+    <path
+        d="M 16 42 Q 20 42 20 46"
+        stroke="#5C6BC0"
+        stroke-width="2"
+        stroke-linecap="round"
+        fill="none"
+        opacity="0.5"/>
+
+    <path
+        d="M 18 50 Q 22 50 22 54"
+        stroke="#5C6BC0"
+        stroke-width="2"
+        stroke-linecap="round"
+        fill="none"
+        opacity="0.6"/>
+
+    <!-- Right signal waves -->
+    <path
+        d="M 76 35 Q 72 35 72 39"
+        stroke="#5C6BC0"
+        stroke-width="2"
+        stroke-linecap="round"
+        fill="none"
+        opacity="0.6"/>
+
+    <path
+        d="M 80 42 Q 76 42 76 46"
+        stroke="#5C6BC0"
+        stroke-width="2"
+        stroke-linecap="round"
+        fill="none"
+        opacity="0.5"/>
+
+    <path
+        d="M 78 50 Q 74 50 74 54"
+        stroke="#5C6BC0"
+        stroke-width="2"
+        stroke-linecap="round"
+        fill="none"
+        opacity="0.6"/>
+
+    <!-- Bottom line -->
+    <line
+        x1="44"
+        y1="76"
+        x2="52"
+        y2="76"
+        stroke="#5C6BC0"
+        stroke-width="2"
+        stroke-linecap="round"/>
+
+</svg>
